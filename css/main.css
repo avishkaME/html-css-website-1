@@ -1,7 +1,9 @@
  *{margin: 0; padding:0}
 
+ a {text-decoration: none;}
+
  .clearfix{overflow: auto}
- 
+
  .wrapper {
  	margin: 0 auto;
  	width: 1000px;
@@ -16,6 +18,23 @@
  	float: left; 	
  }
 
+.top-bar-links ul {
+	margin: 15px;
+	list-style: none;
+}
+
+.top-bar-links ul li {
+	padding:0 10px;
+	display: inline-block;
+	border-right: 1px solid white;
+}
+
+.top-bar-links ul li:last-child {
+	border: none;	
+}
+.top-bar-links ul li a {
+	color:white;
+}
  .site-search{
  	float: right;
  }
