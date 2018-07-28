@@ -36,5 +36,21 @@
 	color:white;
 }
  .site-search{
+ 	padding-left: 10px;
+ 	padding-right: 10px;
+ 	margin: 15px;
  	float: right;
+ 	background: grey;
+ 	border-radius: 10px;
+ }
+
+ .site-search input {
+ 	border: 0;
+ }
+
+ .site-search button {
+ 	width: 18px;
+ 	height: 18px;
+ 	background: url(../img/icons/search.png);  
+ 	border:0;
  }
