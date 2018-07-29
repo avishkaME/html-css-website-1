@@ -15,7 +15,7 @@
  }
 
  .top-bar-links{
- 	float: left; 	
+ 	float: left;
  }
 
 .top-bar-links ul {
@@ -30,7 +30,7 @@
 }
 
 .top-bar-links ul li:last-child {
-	border: none;	
+	border: none;
 }
 .top-bar-links ul li a {
 	color:white;
@@ -51,7 +51,14 @@
  .site-search button {
  	width: 18px;
  	height: 18px;
- 	background: url(../img/icons/search.png);  
+ 	background: url(../img/icons/search.png);
  	border:0;
  	float: right;
+ }
+
+ header .logo h1 {
+   font-size: 48px;
+   font-weight: normal;
+   letter-spacing: 1px;
+   font-variant: small-caps;
  }
