@@ -56,7 +56,11 @@
  	float: right;
  }
 
-header .logo { float: left;}
+header .logo {
+  margin-top: 20px;
+  margin-left: 20x;
+  float: left;
+}
 header .logo h1 {
    font-size: 48px;
    font-weight: normal;
@@ -66,9 +70,23 @@ header .logo h1 {
 
 header .socialmedia {
   float: right;
-  margin-top: 30px;
+  margin-top: 50px;
+  margin-right: 20px;
 }
 header .socialmedia ul{list-style: none}
 header .socialmedia ul li{
   display: inline
+}
+
+header .socialmedia ul li a {
+  margin-left: 3px;
+  padding: 6px;
+  background: grey;
+  color: #fff;
+  display: inline-block;
+  border-radius: 20px;
+}
+
+header .socialmedia ul li a:hover {
+  background: orange;
 }
