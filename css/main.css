@@ -56,9 +56,19 @@
  	float: right;
  }
 
- header .logo h1 {
+header .logo { float: left;}
+header .logo h1 {
    font-size: 48px;
    font-weight: normal;
    letter-spacing: 1px;
    font-variant: small-caps;
  }
+
+header .socialmedia {
+  float: right;
+  margin-top: 30px;
+}
+header .socialmedia ul{list-style: none}
+header .socialmedia ul li{
+  display: inline
+}
