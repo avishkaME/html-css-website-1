@@ -90,3 +90,8 @@ header .socialmedia ul li a {
 header .socialmedia ul li a:hover {
   background: orange;
 }
+
+nav{
+  background: #444;
+
+}
