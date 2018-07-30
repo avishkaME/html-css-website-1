@@ -95,3 +95,10 @@ nav{
   background: #444;
 
 }
+
+nav ul {
+  list-style: none;
+}
+nav ul li {
+  display: inline;
+}
