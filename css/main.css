@@ -94,6 +94,7 @@ header .socialmedia ul li a:hover {
 nav{
   margin-top: 20px;
   background: #444;
+  background: linear-gradient(#333, #444, #333);
   text-align: center;
   border-radius: 5px;
 
