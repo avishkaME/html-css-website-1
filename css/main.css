@@ -149,3 +149,16 @@ div.introtext a {
     color: red;
     float: right;
 }
+
+div.homecontent {
+  width: 1000px;
+  background: #eee;
+}
+
+div.home-column {
+  margin-left: 15px;
+  width: 313.33px;
+  height: 100px;
+  background-color: #bbb;
+  float: left;
+}
