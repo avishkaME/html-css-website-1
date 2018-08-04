@@ -1,6 +1,8 @@
  *{margin: 0; padding:0}
 
- a {text-decoration: none;}
+ a {text-decoration: none; color: red;}
+
+ p {margin-top: 10px; margin-bottom: 20px; font-size: 18px;}
 
  .clearfix{overflow: auto}
 
@@ -146,7 +148,6 @@ div.introtext p {
 
 div.introtext a {
     text-transform: uppercase;
-    color: red;
     float: right;
 }
 
@@ -170,4 +171,8 @@ div.home-column h2 {
 
 div.home-column img {
   width: 313.33px;
+}
+
+div.home-column a {
+  float: right;
 }
