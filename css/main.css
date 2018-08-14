@@ -154,6 +154,8 @@ div.introtext a {
 div.homecontent {
   width: 1000px;
   background: #bbb;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
 }
 
 div.home-column {
@@ -175,6 +177,10 @@ div.home-column img {
 
 div.home-column a {
   float: right;
+}
+
+div.services {
+  margin-bottom: 20px;
 }
 
 div.services img {
