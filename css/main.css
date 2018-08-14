@@ -2,7 +2,7 @@
 
  a {text-decoration: none; color: red;}
 
- p {margin-top: 10px; margin-bottom: 20px; font-size: 18px;}
+ p {margin-top: 10px; margin-bottom: 20px; font-size: 18px; color: #444}
 
  .clearfix{overflow: auto}
 
@@ -180,4 +180,5 @@ div.home-column a {
 div.services img {
   width: 64px;
   float: left;
+  margin-right: 15px;
 }
