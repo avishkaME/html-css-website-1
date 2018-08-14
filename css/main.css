@@ -153,7 +153,7 @@ div.introtext a {
 
 div.homecontent {
   width: 1000px;
-  background: #eee;
+  background: #bbb;
 }
 
 div.home-column {
@@ -175,4 +175,9 @@ div.home-column img {
 
 div.home-column a {
   float: right;
+}
+
+div.services img {
+  width: 64px;
+  float: left;
 }
