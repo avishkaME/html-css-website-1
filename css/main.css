@@ -210,3 +210,17 @@ div.quote h3 {
 div.quote p {
   clear: both;
 }
+
+footer {
+  width: 1000px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  float: left;
+}
+
+div.footercol {
+  width: 231.25px;
+  float: left;
+  margin-left: 15px;
+
+}
