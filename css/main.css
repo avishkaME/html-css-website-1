@@ -123,10 +123,15 @@ nav ul li a:hover {
 div.intro {
   width: 970px;
   margin: 15px;
+  margin-bottom: 0;
 }
 
 div.intro div.introimage {
   width: 400px;
+  float: left;
+}
+
+div.intro img {
   float: left;
 }
 
