@@ -1,4 +1,4 @@
- *{margin: 0; padding:0}
+   *{margin: 0; padding:0}
 
  a {text-decoration: none; color: red;}
 
@@ -187,4 +187,18 @@ div.services img {
   width: 64px;
   float: left;
   margin-right: 15px;
+}
+
+div.quote i {
+  float: left;
+}
+
+div.quote h3 {
+  float: left;
+  margin-bottom: 20px;
+  margin-left: 15px;
+}
+
+div.quote p {
+  clear: both;
 }
