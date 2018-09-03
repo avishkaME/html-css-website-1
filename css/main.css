@@ -231,3 +231,7 @@ div.footercol h4 {
   margin-top: 15px;
   color: #444;
 }
+
+div.tweet p {
+  font-size: 16px;
+}
