@@ -189,13 +189,16 @@ div.services img {
   margin-right: 15px;
 }
 
+div.quote {
+  float: left;
+}
 div.quote i {
   float: left;
 }
 
 div.quote h3 {
   float: left;
-  margin-bottom: 20px;
+  margin-top: 20px;
   margin-left: 15px;
 }
 
