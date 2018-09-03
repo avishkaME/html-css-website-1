@@ -222,5 +222,12 @@ div.footercol {
   width: 231.25px;
   float: left;
   margin-left: 15px;
+  border-top: 1px solid #000;
 
+}
+
+div.footercol h4 {
+  text-transform: uppercase;
+  margin-top: 15px;
+  color: #444;
 }
