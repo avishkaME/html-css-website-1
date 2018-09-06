@@ -235,3 +235,20 @@ div.footercol h4 {
 div.tweet p {
   font-size: 16px;
 }
+
+ul.quicklinks {
+  list-style: none;
+  margin-top: 10px;
+}
+
+ul.quicklinks li a {
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  display: block;
+  border-bottom: 1px solid #aaa;
+  color: #666;
+}
+
+ul.quicklinks li a:hover {
+  color: red;
+}
