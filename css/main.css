@@ -1,3 +1,4 @@
+@charset "UTF-8";
    *{margin: 0; padding:0}
 
  a {text-decoration: none; color: red;}
@@ -227,8 +228,10 @@ div.footercol {
 }
 
 div.footercol h4 {
+  font-size: 20px;
   text-transform: uppercase;
   margin-top: 15px;
+  margin-bottom: 15px;
   color: #444;
 }
 
@@ -249,6 +252,25 @@ ul.quicklinks li a {
   color: #666;
 }
 
+ul.quicklinks li a::before {
+  content: "» ";
+}
+
 ul.quicklinks li a:hover {
   color: red;
+}
+
+div.blogposts {
+  clear: both;
+}
+div.blogposts h5 {
+  font-size: 20px;
+}
+
+div.blogposts p {
+  font-size: 16px;
+}
+
+div.blogposts a.readmore {
+  float: right;
 }
