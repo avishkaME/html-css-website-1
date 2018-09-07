@@ -267,6 +267,10 @@ div.blogposts h5 {
   font-size: 20px;
 }
 
+div.postinfo {
+  font-size: 12px;
+}
+
 div.blogposts p {
   font-size: 16px;
 }
@@ -280,6 +284,22 @@ form.contact input, form.contact textarea {
   padding: 5px;
   margin-bottom: 5px;
   width: 221.25px;
+  border: none;
+  border-radius: 5px;
+  font-family: inherit;
+  font-size: 16px;
+}
+
+form.contact textarea {
+  height: 120px;
+}
+
+form.contact button {
+  background: #eee;
+  color: red;
+  padding: 10px 20px;
+  font-family: inherit;
+  font-size: 16px;
   border: none;
   border-radius: 5px;
 }
