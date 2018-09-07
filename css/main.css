@@ -274,3 +274,12 @@ div.blogposts p {
 div.blogposts a.readmore {
   float: right;
 }
+
+form.contact input, form.contact textarea {
+  background: #eee;
+  padding: 5px;
+  margin-bottom: 5px;
+  width: 221.25px;
+  border: none;
+  border-radius: 5px;
+}
