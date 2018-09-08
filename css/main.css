@@ -303,3 +303,9 @@ form.contact button {
   border: none;
   border-radius: 5px;
 }
+
+div.copyrights {
+  width: 1000px;
+  background: #eee;
+  float: left;
+}
